@@ -1,0 +1,1 @@
+# Technical-Analysis-Screener1_Moving-Averages
